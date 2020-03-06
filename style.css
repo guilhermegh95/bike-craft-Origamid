@@ -292,6 +292,7 @@ img {
 }
 .footer_historia{
 	padding-right: 40px;
+	padding-bottom: 30px;
 }
 .footer_contato ul li{
 	margin-bottom: 5px;
@@ -312,4 +313,10 @@ img {
 }
 .footer_redes ul li a:hover{
 	border-color:#fff;
+}
+.copy {
+	width: 100%;
+	background:#fec63e;
+	padding: 20px 0;
+
 }
